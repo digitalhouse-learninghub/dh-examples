@@ -22,7 +22,7 @@
 			echo "No hablamos tu idioma. Prueba uno de estos...<br/>";
 		
 			$countries = ['Argentina', 'US'];
-			for($i=0 ; $i < $countries ; $i++) { 
+			for($i=0 ; $i < count($countries) ; $i++) { 
 				echo $countries[$i].'<br/>';
 			}
 			break;
