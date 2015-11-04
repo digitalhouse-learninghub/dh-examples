@@ -7,8 +7,8 @@
 3. Enviar el formulario.
 
 ##### Ejercicios
-1. Cambiar <?php por <? y escribir algo en html previo a este código.
-2. Agregar un valor a $_GET de la forma `$_GET[‘miclave’] = ‘mivalor’;`
+1. Cambiar `<?php` por `<?` y escribir algo en html previo a este código.
+2. Agregar un valor al array $_GET de la forma `$_GET[‘miclave’] = ‘mivalor’;`
 3. Agregar un texto al final de los valores que se imprimen (en la línea nro. 4)
 
 ### Prácticas de a pares
@@ -39,6 +39,15 @@ Hacer `git reset --hard` para volver a la versión original de los archivos.
 Hacer `git reset --hard` para volver a la versión original de los archivos.
 
 ##### Ejercicios
+1. Cambiar el envío del formulario para que sea por post y permita edición de los valores.
+2. Agregar un campo para ingresar la edad en años.
 1. Armar placeholders para las variables esperadas. Imprimir el valor de cada una.
-1. Validar que los tipos de variables sean los esperados o mostrar un mensaje de error.
-1. Mostrar un mensaje de error por cualquier variable adicional que no sea esperada.
+1. Convertir la edad a un tipo numérico.
+1. Validar que la edad este en un rango esperado o mostrar un mensaje de error.
+
+##### Resultados esperados
+![image](resultado_integrador_error.png)<br>
+[Ver imagen](resultado_integrador_error.png)
+
+![image](resultado_integrador_ok.png)<br>
+[Ver imagen](resultado_integrador_ok.png)
