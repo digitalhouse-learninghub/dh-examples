@@ -23,6 +23,10 @@ Hacer `git reset --hard` para volver a la versión original de los archivos.
   1. Obtener el tipo de dato de la variable e imprimirlo luego del valor.
   1. Evaluar el tipo de dato para imprimir en negrita.
 
+##### Resultado esperado
+![image](resultado.png)<br>
+[Ver imagen](resultado.png)
+
 ### Quizz multiple choice
 [Link a quizz](http://www.google.com)
 
