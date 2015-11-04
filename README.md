@@ -1,8 +1,8 @@
 # Ejercicios - PHP
 
 #### Todos los items incluyen:
+3. README.md: Resumen de la teoría de clase.
 3. practica.md: Guía de prácticos para la sección del módulo.
-3. teoria.md: Resumen de la teoría de clase.
 
 ## [01-request-basico](01-request-basico)
 1. [formulario.html](01-request-basico/formulario.html):

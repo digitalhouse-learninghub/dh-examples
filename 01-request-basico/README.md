@@ -1,5 +1,8 @@
 # 01-request-basico
 
+### Prácticas
+[Ver guía de prácticas asociadas](practica.md)
+
 ### Teoría
 El código del lado del servidor se puede pasar a través de un webserver y devolver al equipo cliente para que este lo consuma en su browser. Las respuestas del lado del servidor siempre suceden en base a un pedido del lado del cliente.
 
