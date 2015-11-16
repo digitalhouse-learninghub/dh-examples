@@ -7,6 +7,16 @@ Para detalle de teoría por favor referite a la **wiki de PHP**.
 - git
 - php cli
 
+### Instalando git
+[Descargar el ejecutable de git](https://git-scm.com/download/win)
+Cambiar el nombre del archivo por `git.exe`. Probar ejecutando desde la consola `git.exe`.<br>
+Este archivo `git.exe` puede moverse adonde sea más conveniente para hacer las prácticas.
+
+### Instalando php
+[Descargar el ejecutable de php](http://windows.php.net/downloads/releases/php-5.6.15-nts-Win32-VC11-x86.zip).<br>
+Descomprimir y probar ejecutando desde la consola `php.exe -v`.<br>
+Este archivo `php.exe` puede moverse adonde sea más conveniente para hacer las prácticas.
+
 ### Antes de hacer cada práctica
 **_Solamente_ la primera vez que vas a hacer las prácticas**, cloná el repositorio de la siguiente forma:
 ```shell
