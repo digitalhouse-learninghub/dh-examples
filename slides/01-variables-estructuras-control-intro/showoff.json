@@ -1,6 +1,10 @@
 {
   "name": "PHP - Variables y estructuras de control - Intro",
+  "templates" : {
+      "special" : "special.tpl"
+  },
   "sections": [
-    {"section":"one"}
+    "one","two",
+    "three"
   ]
 }
