@@ -1,8 +1,8 @@
 <?php
 
-$name = ;
-$age = ;
-$email = ;
+$name = "nombre";
+$age = 0;
+$email = "email";
 
 echo "Hola $name\n";
 echo "Tu edad es $age\n";
