@@ -1,5 +1,18 @@
-!SLIDE[tpl=special]
+!SLIDE
+<img src="../php-logo.png" style="width:100px" />
 
-# A Template #
+# Variables
+> Una bolsa (con nombre) donde guardamos cosas,<br>
+> para ir a buscarlas luego.
 
-Really? How many slides? -- ~~~NUM_SLIDES~~~
+!SLIDE
+<img src="../php-logo.png" style="width:100px" />
+
+# Variables en PHP
+      @@@ Php
+    $name = "Vito Corleone";
+
+    $profession = "Godfather";
+
+    $tagline1 = "Leave the gun.";
+    $tagline2 = "Take the cannolis.";
