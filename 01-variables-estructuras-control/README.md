@@ -25,4 +25,4 @@ Calcular en base al año actual y tu año de nacimiento, tu edad aproximada y as
  - Editar el nuevo arreglo de datos y agregarle información de una persona conocida.
  - Imprimir los datos de ambos arreglos.<br><br>
 1. Editar el archivo `base.php` para que utilice un bucle para recorrer todos los elementos del arreglo e imprima los valores correspondientes.<br><br>
-1. Editar el archivo `base.php` y agregarle una sentencia de control para que no imprima la edad a partir del segundo elemento del arreglo.
+1. Editar el archivo `base.php` y agregarle una sentencia de control para que no imprima la edad.
