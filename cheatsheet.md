@@ -1,4 +1,4 @@
-** Sintaxis básica **
+**Sintaxis básica**
 <table>
 <tr><td>Los archivos empiezan con</td>
 <td><code>&lt;php</code></td></tr>
