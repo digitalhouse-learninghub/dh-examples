@@ -54,3 +54,4 @@ git push origin --delete lernerd-01-variables-estructuras-control-20151211
 
 ## Cheatsheet (machete)
 Siempre tené a mano la [hoja machete](cheatsheet.md) que contiene referencias rápidas a las parte del lenguaje de programación PHP.
+También en el machete incluímos una base de "[coding style](http://www.php-fig.org/psr/)" que recomendamos usar para todas las prácticas y para tu trabajo posterior al curso.

@@ -1,3 +1,46 @@
+**Coding Style** (estilo y formato al escribir código)
+
+Nos basamos en parte en las definiciones encontradas en los siguientes links:
+- <http://www.php-fig.org/psr/psr-1/>
+- <http://www.php-fig.org/psr/psr-2/>
+
+<table>
+  <thead>
+    <th>Tipo de propiedad</th>
+    <th>Cómo se debe escribir</th>
+    <th>Ejemplo</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Variable</td>
+      <td>
+        <ul>
+          <li>Utilizando [camel case](https://en.wikipedia.org/wiki/CamelCase)</li>
+          <li>En inglés</li>
+          <li>Sin caracteres especiales o barras (_, -, ñ, ó y similares)</li>
+          <li>Sin números</li>
+        </ul>
+      </td>
+      <td><code>$variableName</code></td>
+    </tr>
+    <tr>
+      <td>Comentarios dentro del código</td>
+      <td>
+        <ul>
+          <li>En inglés</li>
+          <li>Sin caracteres especiales (ñ, ó y similares)</li>
+        </ul>
+      </td>
+      <td><code>// this comment explains what the code is doing</code></td>
+    </tr>
+    <tr>
+      <td>Principio y fin de código PHP</td>
+      <td>Utilizando el estándar de [PSR-1](http://www.php-fig.org/psr/psr-1/)</td>
+      <td><code><?php </code> o <code><?=</code> para emitir texto</td>
+    </tr>
+  </tbody>
+</table>
+
 **Sintáxis básica**
 <table>
 <tr><td>Los archivos empiezan con</td>
