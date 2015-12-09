@@ -18,7 +18,7 @@
   <link rel="stylesheet" media="screen" href="../../vendor/deck.js/extensions/scale/deck.scale.css">
 
   <!-- Style theme. More available in /themes/style/ or create your own. -->
-  <link rel="stylesheet" media="screen" href="../../vendor/deck.js/themes/style/mnml.css">
+  <link rel="stylesheet" media="screen" href="../../vendor/deck.js/themes/style/web-2.0.css">
 
   <!-- Transition theme. More available in /themes/transition/ or create your own. -->
   <link rel="stylesheet" media="screen" href="../../vendor/deck.js/themes/transition/horizontal-slide.css">
@@ -35,27 +35,48 @@
     <!-- Begin slides. Just make elements with a class of slide. -->
 
     <section class="slide">
-      <h1><img src="php-logo.png" width="150" /></h1>
-      <h2 class="slide">hypertext pre processor &rarr; pre procesador de hipertexto</h2>
+      <h2 class="slide">
+        <img src="php-logo.png" width="150" style="float:left" />
+        Hypertext pre processor<br/>o <em>pre procesador de hipertexto</em>
+      </h2>
 
       <div class="slide">
-        <div style="float:left">
-          <h2>hipertexto</h2>
-          <pre>
-            &#x3C;html&#x3E;
-              &#x3C;body&#x3E;
-                &#x3C;p&#x3E;&#xA1;Hola a todos!&#x3C;/p&#x3E;
-              &#x3C;/body&#x3E;
-            &#x3C;/html&#x3E;
-          </pre>
-        </div>
+        <h2>Hipertexto es... HTML</h2>
 
-        <div style="float:right">b</div>
+        <pre style="float:left;">
+          &#x3C;html&#x3E;
+            &#x3C;body&#x3E;
+              &#x3C;a href="http://www.google.com"&#x3E;Google Search&#x3C;/a&#x3E;
+            &#x3C;/body&#x3E;
+          &#x3C;/html&#x3E;
+        </pre>
+
+        <div class="slide" style="clear:left;">
+          <ul>
+            <li>Archivo estático</li>
+            <li>No cambia a menos que su creador lo cambie</li>
+            <li>Siempre que pedimos el archivo, recibimos el mismo archivo</li>
+          </ul>
+        </div>
       </div>
     </section>
 
     <section class="slide">
-      <h1>Content</h1>
+      <h2>
+        <img src="php-logo.png" width="150" style="float:left" />
+        hypertext pre processor<br/>o <em>pre procesador de hipertexto</em>
+      </h2>
+
+      <div>
+        <h2>¿qué hace un preprocesador de html (php)?</h2>
+        <pre style="float:left;">
+          &#x3C;html&#x3E;
+            &#x3C;body&#x3E;
+              &#x3C;a href="http://www.google.com"&#x3E;<?=$linkName?>&#x3C;/a&#x3E;
+            &#x3C;/body&#x3E;
+          &#x3C;/html&#x3E;
+        </pre>
+      </div>
     </section>
 
     <section class="slide">
