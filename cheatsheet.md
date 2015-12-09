@@ -1,9 +1,17 @@
-| Sintaxis básica     |
-| :------------- | :------------- |
-| Los archivos empiezan con       | `<?php`       |
-| Comentario de una sola línea       | `//` o `#`       |
-| Comentario de múltiples líneas       | `/* */`       |
-| Final de la instrucción o comando       | `;`       |
+** Sintaxis básica **
+<table>
+<tr><td>Los archivos empiezan con</td>
+<td><code>&lt;php</code></td></tr>
+
+<tr><td>Comentario de una sola línea</td>
+<td><code>//</code> o <code>#</code></td></tr>
+
+<tr><td>Comentario de múltiples líneas</td>
+<td><code>/\* \*/</code></td></tr>
+
+<tr><td>Final de la instrucción o comando</td>
+<td><code>;</code></td></tr>
+</table>
 
 | Variables     |
 | :------------- | :------------- |
