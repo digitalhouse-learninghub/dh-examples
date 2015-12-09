@@ -15,7 +15,7 @@ Nos basamos en parte en las definiciones encontradas en los siguientes links:
       <td>Variable</td>
       <td>
         <ul>
-          <li>Utilizando [camel case](https://en.wikipedia.org/wiki/CamelCase)</li>
+          <li>Utilizando <a href="https://en.wikipedia.org/wiki/CamelCase">camel case</a></li>
           <li>En inglés</li>
           <li>Sin caracteres especiales o barras (_, -, ñ, ó y similares)</li>
           <li>Sin números</li>
@@ -35,7 +35,7 @@ Nos basamos en parte en las definiciones encontradas en los siguientes links:
     </tr>
     <tr>
       <td>Principio y fin de código PHP</td>
-      <td>Utilizando el estándar de [PSR-1](http://www.php-fig.org/psr/psr-1/)</td>
+      <td>Utilizando el estándar de <a href="http://www.php-fig.org/psr/psr-1/">PSR-1</a></td>
       <td><code>&lt;?php </code> o <code>&lt;?=</code> para emitir texto</td>
     </tr>
   </tbody>
