@@ -12,10 +12,11 @@ $info['dni'] = "30083210";
 $currentYear = 2015;
 $info['age'] = $currentYear - $info['birth'];
 
-echo "Hola {$info['lastName']}, {$info['name']}\n";
-echo "Tu edad es {$info['age']}\n";
-echo "Tu e-mail es {$info['email']}\n";
+echo "Hola {$info['lastName']}, {$info['name']}
+Tu edad es {$info['age']}
+Tu e-mail es {$info['email']}
 
-echo "Vivis en {$info['country']}\n";
-echo "Naciste en {$info['birth']}\n";
-echo "Tu documento es {$info['dni']}\n";
+Vivis en {$info['country']}
+Naciste en {$info['birth']}
+Tu documento es {$info['dni']}
+";

@@ -9,7 +9,8 @@ php base.php
 1. Editar el archivo `base.php` para que:
  - La variable `$name` contenga tu primer nombre.
  - La variable `$age` contenga tu edad.
- - La variable `$email` contenga tu dirección de mail.<br><br>
+ - La variable `$email` contenga tu dirección de mail.
+ - Se impriman los valores correspondientes a las variables en pantalla.<br><br>
 1. Agregar al archivo `base.php` variables que contengan:
  - Tu país de origen.
  - El año de tu nacimiento.

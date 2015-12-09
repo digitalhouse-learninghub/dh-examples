@@ -21,20 +21,21 @@ $moreInfo['birth'] = 1985;
 $moreInfo['dni'] = "31233510";
 $moreInfo['age'] = 30;
 
-echo "La primer informacion es...\n";
-echo "Hola {$info['lastName']}, {$info['name']}\n";
-echo "Tu edad es {$info['age']}\n";
-echo "Tu e-mail es {$info['email']}\n";
+echo "La primer informacion es...
+Hola {$info['lastName']}, {$info['name']}
+Tu edad es {$info['age']}
+Tu e-mail es {$info['email']}
 
-echo "Vivis en {$info['country']}\n";
-echo "Naciste en {$info['birth']}\n";
-echo "Tu documento es {$info['dni']}\n";
+Vivis en {$info['country']}
+Naciste en {$info['birth']}
+Tu documento es {$info['dni']}
 
-echo "La segunda informacion es...\n";
-echo "Hola {$moreInfo['lastName']}, {$moreInfo['name']}\n";
-echo "Tu edad es {$moreInfo['age']}\n";
-echo "Tu e-mail es {$moreInfo['email']}\n";
+La segunda informacion es...
+Hola {$moreInfo['lastName']}, {$moreInfo['name']}
+Tu edad es {$moreInfo['age']}
+Tu e-mail es {$moreInfo['email']}
 
-echo "Vivis en {$moreInfo['country']}\n";
-echo "Naciste en {$moreInfo['birth']}\n";
-echo "Tu documento es {$moreInfo['dni']}\n";
+Vivis en {$moreInfo['country']}
+Naciste en {$moreInfo['birth']}
+Tu documento es {$moreInfo['dni']}
+";

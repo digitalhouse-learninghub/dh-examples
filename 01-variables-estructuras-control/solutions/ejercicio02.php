@@ -8,10 +8,11 @@ $country = "Argentina";
 $birth = 1983;
 $dni = "30083210";
 
-echo "Hola $name\n";
-echo "Tu edad es $age\n";
-echo "Tu e-mail es $email\n";
+echo "Hola $name
+Tu edad es $age
+Tu e-mail es $email
 
-echo "Vivis en $country\n";
-echo "Naciste en $birth\n";
-echo "Tu documento es $dni\n";
+Vivis en $country
+Naciste en $birth
+Tu documento es $dni
+";
