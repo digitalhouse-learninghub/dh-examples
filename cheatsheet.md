@@ -36,7 +36,7 @@ Nos basamos en parte en las definiciones encontradas en los siguientes links:
     <tr>
       <td>Principio y fin de código PHP</td>
       <td>Utilizando el estándar de [PSR-1](http://www.php-fig.org/psr/psr-1/)</td>
-      <td><code><?php </code> o <code><?=</code> para emitir texto</td>
+      <td><code>&lt;?php </code> o <code>&lt;?=</code> para emitir texto</td>
     </tr>
   </tbody>
 </table>
@@ -44,7 +44,7 @@ Nos basamos en parte en las definiciones encontradas en los siguientes links:
 **Sintáxis básica**
 <table>
 <tr><td>Los archivos empiezan con</td>
-<td><code>&lt;php</code></td></tr>
+<td><code>&lt;?php</code></td></tr>
 
 <tr><td>Comentario de una sola línea</td>
 <td><code>//</code> o <code>#</code></td></tr>
