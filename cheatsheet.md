@@ -129,3 +129,74 @@
     </td>
   </tr>
 </table>
+
+**Arreglos**
+<table>
+  <tr>
+    <td>
+      Crear
+    </td>
+    <td>
+      <code>$variable = [];</code>
+    </td>
+    <td>
+      <a href="http://php.net/manual/es/language.types.array.php">más info</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Agregar un valor
+    </td>
+    <td>
+      <code>$variable[] = "some value";</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Crear con valores, usando claves numéricas
+    </td>
+    <td>
+      <code>$variable = ["apple", "banana", "grapefruit"];</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Crear con valores, usando claves asociativas
+    </td>
+    <td>
+      <code>$variable = ['name' => "John", 'lastName' => "Doe"];</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Imprimir una clave numérica
+    </td>
+    <td>
+      <code>echo $variable[1];</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Imprimir una clave asociativa
+    </td>
+    <td>
+      <code>echo $variable['lastName'];</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Arreglos numéricos
+    </td>
+    <td>
+      Las claves son números del 0 al N: 0, 1, 2, 3, 4 ... N
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Arreglos asociativos
+    </td>
+    <td>
+      Las claves son cadenas de caracteres
+    </td>
+  </tr>
+</table>
