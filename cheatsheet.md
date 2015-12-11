@@ -47,10 +47,13 @@ Nos basamos en parte en las definiciones encontradas en los siguientes links:
 <td><code>&lt;?php</code></td></tr>
 
 <tr><td>Comentario de una sola línea</td>
-<td><code>//</code> o <code>#</code></td></tr>
+<td><code>// one line comment</code> o <code># another one line comment</code></td></tr>
 
 <tr><td>Comentario de múltiples líneas</td>
-<td><code>/\* \*/</code></td></tr>
+<td><pre><code>/* 
+a multi-line
+comment
+*/</code></pre></td></tr>
 
 <tr><td>Final de la instrucción o comando</td>
 <td><code>;</code></td></tr>
@@ -212,7 +215,7 @@ Nos basamos en parte en las definiciones encontradas en los siguientes links:
   </tr>
   <tr>
     <td>
-      Imprimir una clave numérica
+      Imprimir usando una clave numérica
     </td>
     <td>
       <code>echo $variable[1];</code>
@@ -220,7 +223,7 @@ Nos basamos en parte en las definiciones encontradas en los siguientes links:
   </tr>
   <tr>
     <td>
-      Imprimir una clave asociativa
+      Imprimir usando una clave asociativa
     </td>
     <td>
       <code>echo $variable['lastName'];</code>
