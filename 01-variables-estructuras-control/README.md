@@ -40,7 +40,9 @@ Crear un nuevo archivo llamado `login.php` para que:
 2. Comparar el usuario y contraseña ingresados contra unos valores específicos. Devolver un mensaje específico si el usuario pudo ingresar.
 3. Armar un listado de usuarios y contraseñas para que se puedan loguear distintas personas.
 4. Ordenar el arreglo de datos utilizando <http://php.net/manual/es/function.sort.php>. Investigar e implementar una búsqueda binaria.
-5. Crear un archivo llamado `improvements.txt` y pensar las formas en que mejorarías tu script. Tener en cuenta:
+5. Crear un archivo llamado `improvements.txt` y pensar las formas en que mejorarías tu script.
+
+Tener en cuenta para el punto 5:
 - Cómo se podrían guardar datos sensibles como contraseñas.
 - Cómo se podrían guardar datos fuera del script de php.
 - Cómo se podrían agregar datos al listado.

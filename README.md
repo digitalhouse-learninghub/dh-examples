@@ -51,6 +51,7 @@ git push origin --delete lernerd-01-variables-estructuras-control-20151211
 
 ## Ejercicios
 - [01-variables-estructuras-control](01-variables-estructuras-control)
+- [02-html-embed-requests](02-html-embed-requests)
 
 ## Cheatsheet (machete)
 Siempre tené a mano la [hoja machete](cheatsheet.md) que contiene referencias rápidas a las parte del lenguaje de programación PHP.
