@@ -27,3 +27,21 @@ Calcular en base al año actual y tu año de nacimiento, tu edad aproximada y as
  - Imprimir los datos de ambos arreglos.<br><br>
 1. Editar el archivo `base.php` para que utilice un bucle para recorrer todos los elementos del arreglo e imprima los valores correspondientes.<br><br>
 1. Editar el archivo `base.php` y agregarle una sentencia de control para que no imprima la edad.
+
+### Actividad integradora
+#### Contexto
+Estamos armando una aplicación para tomar notas. Del tipo que usarías si estás en una reunión o en una clase y querés escribir lo que vas escuchando para poder repasarlo luego.<br>
+Nuestra aplicación debería contar con un login para que las notas sean personales de cada usuario.
+
+#### Ejercicios
+Crear un nuevo archivo llamado `login.php` para que:
+
+1. Le pida al usuario su nombre y su contraseña (tener en cuenta que la contraseña no se oculta).
+2. Comparar el usuario y contraseña ingresados contra unos valores específicos. Devolver un mensaje específico si el usuario pudo ingresar.
+3. Armar un listado de usuarios y contraseñas para que se puedan loguear distintas personas.
+4. Ordenar el arreglo de datos utilizando <http://php.net/manual/es/function.sort.php>. Investigar e implementar una búsqueda binaria.
+5. Crear un archivo llamado `improvements.txt` y pensar las formas en que mejorarías tu script. Tener en cuenta:
+- Cómo se podrían guardar datos sensibles como contraseñas.
+- Cómo se podrían guardar datos fuera del script de php.
+- Cómo se podrían agregar datos al listado.
+- Cómo se podrían quitar o modificar datos del listado.
