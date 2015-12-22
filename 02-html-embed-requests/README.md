@@ -10,6 +10,7 @@ Editando el archivo `base.php`...
 
 1. Reemplazar todos los textos (incluído el título del documento) por variables de php.
 2. Declarar un arreglo con los items del menú y recorrerlos con un loop para armar el menú.
+3. Agregar estructuras condicionales (if) para que los items del menú se muestren de una manera u otra según su nombre.
 
 ### Actividad integradora
 #### Contexto
