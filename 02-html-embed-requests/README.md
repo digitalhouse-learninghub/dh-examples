@@ -11,8 +11,7 @@ Editando el archivo `base.php`...
 1. Reemplazar todos los textos (incluído el título del documento) por variables de php.
 2. Declarar un arreglo con los items del menú y recorrerlos con un loop para armar el menú.
 3. Agregar estructuras condicionales (if) para que los items del menú se muestren de una manera u otra según su nombre.
-
-Crear un nuevo archivo copiando `base.php`...
+4. Crear un nuevo archivo copiando `base.php`.
 4. Que contenga un formulario donde se piden datos de usuario: nombre completo, email y fecha de nacimiento.
 5. Crear otro archivo que reciba los datos del formulario por método POST.
 6. En el archivo de recepción imprimir todas las variables enviadas desde el formulario.
