@@ -1,9 +1,6 @@
 # 02 - HTML embed y requests de http
 
-Al finalizar cada práctica, el archivo php debe ejecutarse por línea de comando de la siguiente forma:
-```shell
-php base.php
-```
+Al finalizar cada práctica, el archivo debe verse desde un browser a través de un webserver configurado para esto.
 
 ### Ejercicios
 Editando el archivo `base.php`...
@@ -23,6 +20,7 @@ Estamos armando una aplicación para tomar notas. Del tipo que usarías si está
 #### Ejercicios
 Armá un HTML con un formulario que le pida al usuario su nombre y su contraseña.
 Luego un archivo PHP que reciba el request y en base al mismo:
+
 2. Compare el usuario y contraseña ingresados contra unos valores específicos. Devolver un mensaje específico si el usuario pudo ingresar.
 3. Armar un listado de usuarios y contraseñas para que se puedan loguear distintas personas.
 5. Revisar tu archivo `improvements.txt` y tratar de implementar alguna de las merjoras.
