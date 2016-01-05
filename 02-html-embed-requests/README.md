@@ -25,4 +25,4 @@ Armá un HTML con un formulario que le pida al usuario su nombre y su contraseñ
 Luego un archivo PHP que reciba el request y en base al mismo:
 2. Compare el usuario y contraseña ingresados contra unos valores específicos. Devolver un mensaje específico si el usuario pudo ingresar.
 3. Armar un listado de usuarios y contraseñas para que se puedan loguear distintas personas.
-5. Revisar tu archivo `improvements.txt` y tratar de implementar alguna de las mejoras.
+5. Revisar tu archivo `improvements.txt` y trata de implementar alguna de las mejoras.
