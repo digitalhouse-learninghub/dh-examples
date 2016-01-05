@@ -18,11 +18,11 @@ Editando el archivo `base.php`...
 
 ### Actividad integradora
 #### Contexto
-Estamos armando una aplicación para tomar notas. Del tipo que usarías si estás en una reunión o en una clase y querés escribir lo que vas escuchando para poder repasarlo luego. Vamos a armar nuestra pantalla de login en base a lo que hicimos en consola de texto, ahora armado con HTML y PHP.
+Continuamos armando nuestra aplicación para tomar notas. En este paso desarrollaremos la pantalla de login en base a lo que hicimos en consola de texto, ahora armado con HTML y PHP.
 
 #### Ejercicios
 Armá un HTML con un formulario que le pida al usuario su nombre y su contraseña.
 Luego un archivo PHP que reciba el request y en base al mismo:
 2. Compare el usuario y contraseña ingresados contra unos valores específicos. Devolver un mensaje específico si el usuario pudo ingresar.
 3. Armar un listado de usuarios y contraseñas para que se puedan loguear distintas personas.
-5. Revisar tu archivo `improvements.txt` y tratar de implementar alguna de las merjoras.
+5. Revisar tu archivo `improvements.txt` y tratar de implementar alguna de las mejoras.
