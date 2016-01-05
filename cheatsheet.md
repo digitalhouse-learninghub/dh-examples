@@ -246,3 +246,40 @@ comment
     </td>
   </tr>
 </table>
+
+**Variables de Request**
+<table>
+  <tr>
+    <td>
+      Recibidas por método GET
+    </td>
+    <td>
+      <code>echo $_GET['variableName'];</code>
+    </td>
+    <td>
+      <a href="http://php.net/manual/es/language.variables.external.php">más info</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Recibidas por método POST
+    </td>
+    <td>
+      <code>echo $_POST['variableName'];</code>
+    </td>
+    <td>
+      <a href="http://php.net/manual/es/language.variables.external.php">más info</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Recibidas por cualquier método
+    </td>
+    <td>
+      <code>echo $_REQUEST['variableName'];</code>
+    </td>
+    <td>
+      <a href="http://php.net/manual/es/language.variables.external.php">más info</a>
+    </td>
+  </tr>
+</table>
