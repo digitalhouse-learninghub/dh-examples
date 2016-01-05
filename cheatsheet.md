@@ -283,3 +283,26 @@ comment
     </td>
   </tr>
 </table>
+
+**Encabezados**
+<table>
+  <tr>
+    <td>
+      Redirección a otra página
+    </td>
+    <td>
+      <code>header("Location: http://www.example.com/");</code>
+    </td>
+    <td>
+      <a href="http://php.net/manual/es/function.header.php">más info</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Página no encontrada
+    </td>
+    <td>
+      <code>header("HTTP/1.0 404 Not Found");</code>
+    </td>
+  </tr>
+</table>
