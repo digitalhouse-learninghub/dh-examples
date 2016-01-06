@@ -34,7 +34,7 @@ Estamos armando una aplicación para tomar notas. Del tipo que usarías si está
 Nuestra aplicación debería contar con un login para que las notas sean personales de cada usuario.
 
 #### Ejercicios
-Crear un nuevo archivo llamado `login.php` para que:
+Crear un nuevo archivo en la carpeta `integrador` llamado `login.php` para que:
 
 1. Le pida al usuario su nombre y su contraseña (tener en cuenta que la contraseña no se oculta).
 2. Comparar el usuario y contraseña ingresados contra unos valores específicos. Devolver un mensaje específico si el usuario pudo ingresar.

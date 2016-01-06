@@ -18,7 +18,7 @@ Editando el archivo `base.php`...
 Continuamos armando nuestra aplicación para tomar notas. En este paso desarrollaremos la pantalla de login en base a lo que hicimos en consola de texto, ahora armado con HTML y PHP.
 
 #### Ejercicios
-Armá un HTML con un formulario que le pida al usuario su nombre y su contraseña.
+En la carpeta `integrador` armá un HTML con un formulario que le pida al usuario su nombre y su contraseña.
 Luego un archivo PHP que reciba el request y en base al mismo:
 
 2. Compare el usuario y contraseña ingresados contra unos valores específicos. Devolver un mensaje específico si el usuario pudo ingresar.

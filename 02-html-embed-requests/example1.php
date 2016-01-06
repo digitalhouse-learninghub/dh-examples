@@ -12,7 +12,7 @@
     7 => 'Domingo',
   ];
 
-  define('HAPPY_DAY', 'Viernes');
+  $happyDay = 'Viernes';
   $todayName = $dayNumbers[ date('N') ];
 ?>
 <!DOCTYPE html>
@@ -24,7 +24,7 @@
   <body>
     <p>
       Hoy es <?=$todayName?>.
-      <? if($todayName == HAPPY_DAY) { ?>
+      <? if($todayName == $happyDay) { ?>
       <br/>Hoy es un día feliz 😃
       <? } ?>
     </p>
